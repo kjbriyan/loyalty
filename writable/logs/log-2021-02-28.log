@@ -1,0 +1,12 @@
+CRITICAL - 2021-02-28 21:48:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Authen->authin()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authen))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-28 21:50:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getRaw()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Authen->authin()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authen))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

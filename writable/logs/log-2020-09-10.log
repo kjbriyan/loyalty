@@ -1,0 +1,79 @@
+CRITICAL - 2020-09-10 21:33:26 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:33:47 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:34:06 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->login()
+#1 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-09-10 21:34:11 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:34:28 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:34:36 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:34:38 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:34:57 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-09-10 21:35:15 --> There is no data to {0}.
+#0 C:\xampp\htdocs\ci4api\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\ci4api\app\Controllers\Auth.php(61): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\ci4api\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci4api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\ci4api\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}

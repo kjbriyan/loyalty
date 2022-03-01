@@ -1,0 +1,130 @@
+CRITICAL - 2021-01-19 22:04:17 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:04:45 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:05:25 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:06:07 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:07:27 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:07:44 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:07:59 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:12:11 --> There is no data to update.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(809): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Liked.php(25): CodeIgniter\Model->update(Array)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-19 22:23:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getArray()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:23:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:24:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getArray()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:24:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::first()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:25:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::find()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna2')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:25:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::find()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:25:43 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::find()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:27:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRow()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:28:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::result()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:28:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRowArray()
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-19 22:46:38 --> Function name must be a string
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Liked->logiclike('pengguna')
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Liked))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

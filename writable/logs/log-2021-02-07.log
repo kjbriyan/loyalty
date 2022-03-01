@@ -1,0 +1,12 @@
+CRITICAL - 2021-02-07 21:41:06 --> Class 'App\Models\ComentModel' not found
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Oke->postlike()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Oke))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-07 21:41:50 --> Class 'App\Models\ComentModel' not found
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Oke->postlike()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Oke))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

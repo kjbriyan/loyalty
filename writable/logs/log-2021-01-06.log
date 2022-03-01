@@ -1,0 +1,55 @@
+CRITICAL - 2021-01-06 17:29:47 --> Cannot redeclare App\Models\PostModel::$table
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-01-06 17:29:52 --> Cannot redeclare App\Models\PostModel::$table
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-01-06 21:21:01 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 21:22:05 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 21:23:07 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 21:23:52 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 21:24:31 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 21:24:48 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 22:37:46 --> Call to a member function select() on null
+#0 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-06 23:19:40 --> Argument 1 passed to CodeIgniter\Database\BaseConnection::query() must be of the type string, array given, called in /home/arsitek/public_html/ci4api/app/Controllers/Post.php on line 40
+#0 /home/arsitek/public_html/ci4api/app/Controllers/Post.php(40): CodeIgniter\Database\BaseConnection->query(Array)
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Post->index()
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

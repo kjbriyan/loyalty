@@ -1,0 +1,28 @@
+CRITICAL - 2020-10-13 20:33:42 --> Call to undefined method App\Models\TransaksiModel::getResult
+#0 /home/arsitek/public_html/ci4api/app/Controllers/Transaksi.php(45): CodeIgniter\Model->__call('getResult', Array)
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Transaksi->showtrans('0')
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-13 20:34:39 --> Call to undefined method App\Models\TransaksiModel::getResult
+#0 /home/arsitek/public_html/ci4api/app/Controllers/Transaksi.php(45): CodeIgniter\Model->__call('getResult', Array)
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Transaksi->showtrans('0')
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-13 20:35:02 --> Call to undefined method App\Models\TransaksiModel::getResult
+#0 /home/arsitek/public_html/ci4api/app/Controllers/Transaksi.php(45): CodeIgniter\Model->__call('getResult', Array)
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Transaksi->showtrans('0')
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-13 20:36:35 --> Call to undefined method App\Models\TransaksiModel::getResult
+#0 /home/arsitek/public_html/ci4api/app/Controllers/Transaksi.php(45): CodeIgniter\Model->__call('getResult', Array)
+#1 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Transaksi->showtrans('0')
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaksi))
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

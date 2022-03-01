@@ -1,0 +1,24 @@
+CRITICAL - 2020-10-07 20:59:18 --> There is no data to insert.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Auth.php(66): CodeIgniter\Model->insert(NULL)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-10-07 20:59:58 --> There is no data to insert.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Auth.php(66): CodeIgniter\Model->insert(NULL)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-10-07 21:00:05 --> There is no data to insert.
+#0 /home/arsitek/public_html/ci4api/system/Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 /home/arsitek/public_html/ci4api/app/Controllers/Auth.php(66): CodeIgniter\Model->insert(NULL)
+#2 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(914): App\Controllers\Auth->create()
+#3 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 /home/arsitek/public_html/ci4api/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/arsitek/public_html/ci4api/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
