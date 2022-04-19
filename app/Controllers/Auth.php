@@ -10,7 +10,7 @@ use App\Models\RegisModel;
 class Auth extends ResourceController
 {
     use ResponseTrait;
-    // get all product
+    // get all user
     public function index()
     {
         $model = new RegisModel();
@@ -40,7 +40,7 @@ class Auth extends ResourceController
         }
     }
 
-    // get single product
+    // get single user
     public function show($id = null)
     {
         $model = new RegisModel();
@@ -52,17 +52,17 @@ class Auth extends ResourceController
         }
     }
 
-    // create a product
- public function create($id = null)
+    // create a user
+ public function create()
     {
         $model = new RegisModel();
-        $data = $model->find($id);
+        $data = $model->find($this->request->getPost('email'));
         if ($data) {
             $response = [
                 'status'   => 404,
                 'error'    => "eror",
                 'messages' => [
-                    'success' => 'Username terpakai'
+                    'success' => 'Username terpakai'. $data
                 ]
             ];
             return $this->respond($response);
@@ -85,7 +85,7 @@ class Auth extends ResourceController
     }
 
 
-    // update product
+    // update user
     public function update($id = null)
     {
         $model = new ProductModel();
@@ -93,7 +93,7 @@ class Auth extends ResourceController
         if ($json) {
             $data = [
                 'name' => $json->name,
-                'alamat' => $json->lamat
+                'alamat' => $json->alamat
             ];
         } else {
             $input = $this->request->getRawInput();
@@ -114,10 +114,10 @@ class Auth extends ResourceController
         return $this->respond($response);
     }
 
-    // delete product
+    // delete user
     public function delete($id = null)
     {
-        $model = new RegisModel();
+        $model = new ProductModel();
         $data = $model->find($id);
         if ($data) {
             $model->delete($id);
@@ -131,7 +131,7 @@ class Auth extends ResourceController
 
             return $this->respondDeleted($response);
         } else {
-            return $this->failNotFound('No Data Found with id ' . $id);
+            return $this->failNotFound('No Data Found with id ' . $data);
         }
     }
 }
